@@ -32,3 +32,9 @@ npm run build
     <img src="https://skillicons.dev/icons?i=vue,js,sass,tailwindcss" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,mongo" />
+  </a>
+</p>
