@@ -22,6 +22,12 @@ npm install
 npm run dev
 ```
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,js,sass,tailwindcss" />
+  </a>
+</p>
+
 ### Compile and Minify for Production
 
 ```sh
