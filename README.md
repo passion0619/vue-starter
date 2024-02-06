@@ -30,10 +30,6 @@ npm run build
 
 ### Development Tools
 
-```sh
-Frontend
-```
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,js,sass,tailwindcss" />
