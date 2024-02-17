@@ -30,7 +30,7 @@ npm run build
 
 ### Development Tools
 
---- Front & Backend ---
+--- Front and Backend ---
 
 <p align="left">
   <a href="https://skillicons.dev">
